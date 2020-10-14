@@ -23,7 +23,7 @@ namespace Calculator
 
             // Ask the user to choose an option.
             Console.WriteLine("Choose an option from the following list:");
-            Console.WriteLine("\ta - Addition");
+            Console.WriteLine("\ta - Add");
             Console.WriteLine("\ts - Subtract");
             Console.WriteLine("\tm - Multiply");
             Console.WriteLine("\td - Divide");
